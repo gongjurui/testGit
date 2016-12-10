@@ -1,1 +1,2 @@
 slider master
+slider dev
