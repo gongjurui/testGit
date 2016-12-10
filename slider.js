@@ -1,2 +1,0 @@
-slider master
-slider dev
